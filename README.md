@@ -12,3 +12,4 @@
 * Replace `source/main.cpp` with `./server/main.cpp`
 * Put the files under `./server/MagnetoService.h` into `mbed-os/connectivity/FEATURE_BLE/include/ble/services/`
 * Put the files `./server/mbed files/BSP_B-L475E-IOT01` into the project
+* Compile and run
