@@ -9,4 +9,5 @@
 * New an mbed studio project, delete the `main.cpp`
 * Copy the files under the directory `BLE_GattServer_AddService` to the new project
 * Modify `mbed_app.json`
-* Put the files under `./server` into `mbed-os/connectivity/FEATURE_BLE/include/ble/services/`
+* Replace `source/main.cpp` with `./server/main.cpp`
+* Put the files under `./server/MagnetoService.h` into `mbed-os/connectivity/FEATURE_BLE/include/ble/services/`
