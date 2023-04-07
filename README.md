@@ -24,6 +24,6 @@ Copy the file `client/ble_client.py` to RPi and run `sudo python ble_client.py`
 
 ![](./screenshots/find_device.png)
 
-### Print the simulated heart rate values and the 3D values from the magnetometer sensor
+### Print the simulated heart rate values and the 3D values of magnetometer sensor
 
 ![](./screenshots/notifications.png)
