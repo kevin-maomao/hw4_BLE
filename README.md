@@ -11,7 +11,7 @@
 * Replace `mbed_app.json` with `./server/mbed_app.json`
 * Replace `source/main.cpp` with `./server/main.cpp`
 * Put the file `./server/MagnetoService.h` into `mbed-os/connectivity/FEATURE_BLE/include/ble/services/`
-* Put the directory `./server/mbed files/BSP_B-L475E-IOT01` into the project
+* Add libraries: [mbed-os-ble-utils](https://github.com/ARMmbed/mbed-os-ble-utils/), [BSP_B-L475E-IOT01](https://os.mbed.com/teams/ST/code/BSP_B-L475E-IOT01/)
 * Compile and run
 
 ### On RPi
